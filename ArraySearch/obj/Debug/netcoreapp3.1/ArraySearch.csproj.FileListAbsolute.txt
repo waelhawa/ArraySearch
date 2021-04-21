@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.exe
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.deps.json
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.runtimeconfig.json
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.runtimeconfig.dev.json
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.dll
+F:\GrandCircus\C#\ArraySearch\ArraySearch\bin\Debug\netcoreapp3.1\ArraySearch.pdb
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.csprojAssemblyReference.cache
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.AssemblyInfo.cs
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.dll
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.pdb
+F:\GrandCircus\C#\ArraySearch\ArraySearch\obj\Debug\netcoreapp3.1\ArraySearch.genruntimeconfig.cache
